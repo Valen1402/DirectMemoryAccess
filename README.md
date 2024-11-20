@@ -9,14 +9,16 @@ This project implement a Direct Memory Access unit on Xilinx FPGA VCU118
 
 ![image](https://github.com/user-attachments/assets/9d1227af-168c-467d-9003-712907bbe00e)
 
+
+
 # 1. ABP Interface
 
 ![image](https://github.com/user-attachments/assets/3ca9ab30-e11d-4d10-b2f3-4fc51f2fa333)
 
 # 2. DMA
 
-![image](https://github.com/user-attachments/assets/f63d7496-1134-42ca-b8eb-009dd8e20ce6)
 ![image](https://github.com/user-attachments/assets/e0eaee52-5096-441e-8bea-216c6c02c844)
+![image](https://github.com/user-attachments/assets/2f1784f1-4b12-43c2-8256-945927225209)
 
 # 3. Result
 
