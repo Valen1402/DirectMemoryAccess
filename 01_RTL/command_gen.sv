@@ -1,3 +1,5 @@
+`timescale 1ns / 1ps
+
 module command_gen
     import dma_pkg::*;
 (
