@@ -1,3 +1,5 @@
+`timescale 1ns / 1ps
+
 module fpga_top
 	import dma_pkg::*;
 (
